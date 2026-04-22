@@ -1,0 +1,49 @@
+<div class="galeria">
+  <!-- PNG 1–15 -->
+  <img src="assets/asset_image_1.png">
+  <img src="assets/asset_image_2.png">
+  <img src="assets/asset_image_3.png">
+  <img src="assets/asset_image_4.png">
+  <img src="assets/asset_image_5.png">
+  <img src="assets/asset_image_6.png">
+  <img src="assets/asset_image_7.png">
+  <img src="assets/asset_image_8.png">
+  <img src="assets/asset_image_9.png">
+  <img src="assets/asset_image_10.png">
+  <img src="assets/asset_image_11.png">
+  <img src="assets/asset_image_12.png">
+  <img src="assets/asset_image_13.png">
+  <img src="assets/asset_image_14.png">
+  <img src="assets/asset_image_15.png">
+
+  <!-- JPG 16–35 -->
+  <img src="assets/asset_image_16.jpg">
+  <img src="assets/asset_image_17.jpg">
+  <img src="assets/asset_image_18.jpg">
+  <img src="assets/asset_image_19.jpg">
+  <img src="assets/asset_image_20.jpg">
+  <img src="assets/asset_image_21.jpg">
+  <img src="assets/asset_image_22.jpg">
+  <img src="assets/asset_image_23.jpg">
+  <img src="assets/asset_image_24.jpg">
+  <img src="assets/asset_image_25.jpg">
+  <img src="assets/asset_image_26.jpg">
+  <img src="assets/asset_image_27.jpg">
+  <img src="assets/asset_image_28.jpg">
+  <img src="assets/asset_image_29.jpg">
+  <img src="assets/asset_image_30.jpg">
+  <img src="assets/asset_image_31.jpg">
+  <img src="assets/asset_image_32.jpg">
+  <img src="assets/asset_image_33.jpg">
+  <img src="assets/asset_image_34.jpg">
+  <img src="assets/asset_image_35.jpg">
+
+  <!-- PNG 36–39 -->
+  <img src="assets/asset_image_36.png">
+  <img src="assets/asset_image_37.png">
+  <img src="assets/asset_image_38.png">
+  <img src="assets/asset_image_39.png">
+
+  <!-- LOGO -->
+  <img src="assets/logo_prep_transparente.png">
+</div>
